@@ -26,7 +26,7 @@ export default function Home() {
       <div className="flex flex-1">
         <Sidebar />
 
-        <main className="flex-1 p-6 overflow-auto mb-[8%]">
+        <main className="flex-1 p-6 overflow-auto mb-[8%] pl-80">
           <div className=" flex items-center gap-4">
             <button className="rounded-full bg-black/40 p-1">
               <ChevronLeft />
